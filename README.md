@@ -1,5 +1,5 @@
 # FIGMA TO REACT CODE CONVERTER
-# FigmaDesign Component
+# FigmaDesign Component (Images at last)
 
 This component allows users to fetch data from Figma using the Figma API by providing a file key and API token. It then displays the dimensions of the first parent frame and a div matching its dimensions,Because its a prototype and there will be further updates in this and this is prepared in one day only for an intership submition at rajgm1722@gmail.com
 
@@ -26,19 +26,13 @@ This component allows users to fetch data from Figma using the Figma API by prov
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
 
-```jsx
-import React from 'react';
-import FigmaDesign from './FigmaDesign';
+## Images 
 
-function App() {
-  return (
-    <div className="App">
-      <FigmaDesign />
-    </div>
-  );
-}
+### input 
+![Screenshot 2024-05-29 223828](https://github.com/Dipeshgehlot69/Figma-to-code-converter/assets/128991454/c07233b6-409a-42ad-b123-babab0ed464c)
 
-export default App;
-
+### output 
+##### It makes a div with  width and height of same as homepage of  the figma who's token and key are summited 
+![Screenshot 2024-05-29 223918](https://github.com/Dipeshgehlot69/Figma-to-code-converter/assets/128991454/a1d2918a-eb43-42ff-a81f-907371e62586)
 
 
